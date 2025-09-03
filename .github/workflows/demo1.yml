@@ -8,4 +8,4 @@ jobs:
         run: echo "Hello World!"
 
       - name: show date
-        run: date
+        run: echo "Current date and time"
